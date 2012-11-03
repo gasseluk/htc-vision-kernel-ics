@@ -1,1 +1,0 @@
-cmd_drivers/media/video/msm/sensors/built-in.o :=  arm-eabi-ld -EL    -r -o drivers/media/video/msm/sensors/built-in.o drivers/media/video/msm/sensors/s5k4e1gx.o drivers/media/video/msm/sensors/s5k4e1gx_reg.o 

@@ -1,1 +1,0 @@
-cmd_arch/arm/mach-msm/reset_modem.ko := arm-eabi-ld -EL -r  -T /usr/src/htc7x30-3.0/scripts/module-common.lds --build-id  -o arch/arm/mach-msm/reset_modem.ko arch/arm/mach-msm/reset_modem.o arch/arm/mach-msm/reset_modem.mod.o

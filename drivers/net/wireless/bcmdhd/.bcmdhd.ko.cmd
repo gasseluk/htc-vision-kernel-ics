@@ -1,1 +1,0 @@
-cmd_drivers/net/wireless/bcmdhd/bcmdhd.ko := arm-eabi-ld -EL -r  -T /usr/src/htc7x30-3.0/scripts/module-common.lds --build-id  -o drivers/net/wireless/bcmdhd/bcmdhd.ko drivers/net/wireless/bcmdhd/bcmdhd.o drivers/net/wireless/bcmdhd/bcmdhd.mod.o
